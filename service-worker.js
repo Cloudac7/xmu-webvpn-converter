@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a482e34b04120363c2fa2c48a483ddd9.js"
+  "precache-manifest.7316713c97a151a984d143135c4f3a39.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "xmu-webvpn-converter"});
