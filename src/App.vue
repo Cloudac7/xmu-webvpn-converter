@@ -14,7 +14,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/spencerwooo/bit-webvpn-converter"
+        href="https://github.com/cloudac7/xmu-webvpn-converter"
         target="_blank"
         text
       >
@@ -43,7 +43,7 @@
         </v-btn> -->
         <v-col class="py-4 text-center black--text" cols="12">
           ©{{ new Date().getFullYear() }} —
-          <strong>Built with love at <a href="http://www.bit.edu.cn/" target="_blank">BIT</a></strong>
+          <strong>Strongly thanks <a href="https://github.com/spencerwooo" target="_blank">@spencerwooo</a> for <a href="https://github.com/spencerwooo/bit-webvpn-converter" target="_blank">original app</a> built for BIT.</strong>
         </v-col>
       </v-row>
     </v-footer>
