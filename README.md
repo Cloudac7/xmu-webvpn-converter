@@ -1,6 +1,6 @@
 # 🥑 WEBVPN URL Converter
 
-Originated from ![bit-webvpn-converter](https://github.com/spencerwooo/bit-webvpn-converter) built by @spencerwooo. Specially thanks!
+Originated from [bit-webvpn-converter](https://github.com/spencerwooo/bit-webvpn-converter) built by [@spencerwooo](https://github.com/spencerwooo). Specially thanks!
 
 Here is the repository modified for XMUers.
 
